@@ -14,7 +14,7 @@ forcent a reinstaller windows. Dans ce guide je me contenterais de vous donner d
 Je ferrais un guide prochainement pour optimiser Windows 11
 
 ## Table des matières
-- [**Créer une clé bootable**](#creer-une-cle-bootable)
+- [**Créer une clé USB d'installation**](#creer-une-cle-usb-d-installation)
 
 
 
@@ -26,4 +26,11 @@ Je ferrais un guide prochainement pour optimiser Windows 11
 
 
 
-## Créer une clé bootable
+## Créer une clé USB d'installation
+
+Premierement, nous allons créer une clé USB d'installation de Windows, qu'on pourra utiliser pour formater un PC et réinstaller Windows proprement.
+
+Il faut pour ça une clé USB de 8 Go minimum et accès à un PC sous Windows.
+
+-
+
